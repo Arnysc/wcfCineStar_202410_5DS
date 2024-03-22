@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "wcfCineStar_202410_5DS", ".", "{19603B91-A317-4704-896C-C0EE096CB488}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51445"
+		Debug.AspNetCompiler.PhysicalPath = "..\wcfCineStar_202410_5DS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51445\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51445"
+		Release.AspNetCompiler.PhysicalPath = "..\wcfCineStar_202410_5DS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51445\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51445"
+		SlnRelativePath = "..\wcfCineStar_202410_5DS\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19603B91-A317-4704-896C-C0EE096CB488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19603B91-A317-4704-896C-C0EE096CB488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AAE0DB5-10FE-4E77-BB8D-2B45DC9E9D07}
+	EndGlobalSection
+EndGlobal
