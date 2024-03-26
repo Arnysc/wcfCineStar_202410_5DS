@@ -10,4 +10,18 @@ public interface ICineStar
 	[OperationContract]
 	DataSet getCines();
 
+    [OperationContract]
+    DataSet getCine(int id);
+
+    [OperationContract]
+    DataSet getCinePeliculas(int id);
+
+    [OperationContract]
+    DataSet getCineTarifas(int id);
+
+    [OperationContract]
+    DataSet getPeliculas(int id);
+
+    [OperationContract]
+    DataSet getPelicula(int id);
 }
