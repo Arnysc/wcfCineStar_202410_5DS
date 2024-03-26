@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ArnySC\\Desktop\\TAREA SEM 6\\wcfCineStar_202410_5DS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19603B91-A317-4704-896C-C0EE096CB488}|C:\\Users\\ArnySC\\Desktop\\TAREA SEM 6\\wcfCineStar_202410_5DS|c:\\users\\arnysc\\desktop\\tarea sem 6\\wcfcinestar_202410_5ds\\app_code\\dao\\aeadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19603B91-A317-4704-896C-C0EE096CB488}|C:\\Users\\ArnySC\\Desktop\\TAREA SEM 6\\wcfCineStar_202410_5DS|solutionrelative:app_code\\dao\\aeadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aeaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ArnySC\\Desktop\\TAREA SEM 6\\wcfCineStar_202410_5DS\\App_Code\\dao\\aeaDAO.cs",
+              "RelativeDocumentMoniker": "App_Code\\dao\\aeaDAO.cs",
+              "ToolTip": "C:\\Users\\ArnySC\\Desktop\\TAREA SEM 6\\wcfCineStar_202410_5DS\\App_Code\\dao\\aeaDAO.cs",
+              "RelativeToolTip": "App_Code\\dao\\aeaDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:32:44.969Z",
+              "EditorCaption": ""
             }
           ]
         }
